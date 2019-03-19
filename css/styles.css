@@ -1,22 +1,32 @@
 h1 {
-  color: #361F4A;
+  color: #4D754C;
   text-align: center;
   font-family: sans-serif;
+  background-color: #ffffff;
 }
 
 h2 {
   font-style: italic;
   text-align: center;
-  color: #553670;
+  color: #4D754C;
   font-family: sans-serif;
+  background-color: #ffffff;
 }
 
 p {
-  color: #765692;
+  color: #729471;
   font-family: sans-serif;
   font-style: oblique;
+  background-color: #ffffff;
+}
+
+ul {
+  color: #729471;
+  font-family: sans-serif;
+  font-style: oblique;
+  background-color: #ffffff;
 }
 
 body {
-  background-color: #A98EBF;
+  background-image: url("https://img.freepik.com/free-vector/set-botanical-vector-illustrations-tropical-palm-leaves-realistic-style_1441-471.jpg?size=338&ext=jpg");
 }
