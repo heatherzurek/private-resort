@@ -1,4 +1,21 @@
 h1 {
-  color: #452D59;
+  color: #361F4A;
   text-align: center;
+  font-family: sans-serif;
+}
+
+h2 {
+  font-style: italic;
+  text-align: center;
+  color: #553670;
+  font-family: sans-serif;
+}
+
+p {
+  color: #765692;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: #C6B1D9;
 }
